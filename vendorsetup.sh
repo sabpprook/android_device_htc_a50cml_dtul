@@ -1,2 +1,2 @@
-add_lunch_combo omni_a50cml-userdebug
-add_lunch_combo omni_a50cml-eng
+add_lunch_combo omni_a50cml_dtul-userdebug
+add_lunch_combo omni_a50cml_dtul-eng
